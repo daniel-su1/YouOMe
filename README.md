@@ -1,4 +1,4 @@
-# YouOMe CRUD API
+# YouOMe CRUD App + API
 
 ## Project Description
 YouOMe is a Java-based web application using Spring Boot, designed to help users keep track of money owed to them by their friends. The application allows users to create, read, update, and delete (CRUD) friend entries along with the amount owed.
