@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 import java.util.List;
-import com.daniel.cruddemo.dao.EmployeeDAO;
 import com.daniel.cruddemo.entity.Employee;
 import com.daniel.cruddemo.service.EmployeeService;
 
